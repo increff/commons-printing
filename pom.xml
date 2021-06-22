@@ -19,6 +19,8 @@
 	<artifactId>commons-printing</artifactId>
 	<version>1.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
+
+	<name>commons-printing</name>
 	<description>
 		commons-printing provides methods to deal with printers and printing tasks. It allows the identification of
 		available printers as well the processing of printing jobs on the printers
