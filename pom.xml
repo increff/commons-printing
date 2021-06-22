@@ -17,7 +17,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.increff.commons</groupId>
 	<artifactId>commons-printing</artifactId>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.4</version>
 	<packaging>jar</packaging>
 	<description>
 		commons-printing provides methods to deal with printers and printing tasks. It allows the identification of
@@ -245,7 +245,7 @@
 		<connection>scm:git:git://github.com/increff/commons-printing.git</connection>
 		<developerConnection>scm:git:git@github.com:increff/commons-printing.git</developerConnection>
 		<url>https://github.com/increff/commons-printing</url>
-		<tag>HEAD</tag>
+		<tag>rel-commons-printing-1.4</tag>
 	</scm>
 
 	<licenses>
